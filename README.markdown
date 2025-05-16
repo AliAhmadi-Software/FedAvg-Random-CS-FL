@@ -1,4 +1,4 @@
-# Random Client Selection (FedAvg) Federated Learning on MNIST
+# Random Client Selection (FedAvg) FL on MNIST
 
 This project implements a federated learning simulation using the Flower (flwr) framework with the FedAvg strategy and random client selection. It trains a simple neural network on the MNIST dataset to classify handwritten digits, distributed across 10 clients.
 
